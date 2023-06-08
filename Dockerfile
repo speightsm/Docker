@@ -1,4 +1,4 @@
-FROM python:3.9.12-buster
+FROM python:3.12.0b1-buster
 
 ENV FLASK_ENV='development'
 ENV FLASKK_APP='app.py'
